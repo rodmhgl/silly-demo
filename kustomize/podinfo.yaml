@@ -1,7 +1,0 @@
-apiVersion: kro.run/v1alpha1
-kind: PodInfo
-metadata:
-  name: silly-demo
-spec:
-  name: silly-demo
-  minReplicas: 40
